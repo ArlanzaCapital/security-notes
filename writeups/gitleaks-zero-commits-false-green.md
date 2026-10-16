@@ -1,5 +1,7 @@
 # Gitleaks en verde, cero commits analizados: cómo comprobar el alcance real del escaneo
 
+[English](gitleaks-zero-commits-false-green.en.md) | **Español**
+
 Un control de secretos terminó en verde después de integrar cambios. Al revisar el log, el dato que importaba no era el número de hallazgos: el escáner había informado de cero commits procesados.
 
 El resultado no demostraba una filtración. En ese caso se había aceptado como satisfactorio un control sin acreditar que hubiese procesado los commits esperados. El alcance de Git y el contador del escáner necesitaban comprobarse por separado.

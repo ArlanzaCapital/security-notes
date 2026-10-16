@@ -1,5 +1,7 @@
 # Remediación de una dependencia vulnerable en una cadena de herramientas de desarrollo
 
+[English](braces-development-toolchain-remediation.en.md) | **Español**
+
 ## Estado del caso
 
 La remediación está **integrada en la rama principal**. Antes de integrarla:
