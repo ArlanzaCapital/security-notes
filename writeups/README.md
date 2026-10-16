@@ -12,5 +12,5 @@ Private program details, undisclosed vulnerabilities, credentials, personal data
 
 ## Published write-ups
 
-- [Gitleaks en verde, cero commits analizados](gitleaks-zero-commits-false-green.md) — Spanish technical note on scan scope, merge coverage, and rejecting empty scans; includes public references and generic examples.
-- [Remediación de una dependencia vulnerable en una cadena de herramientas de desarrollo](braces-dependencia-vulnerable-herramientas-dev.md) — Spanish technical note on removing a vulnerable `braces` chain from a development toolchain with a scoped local adapter; covers the remediation contract, validation limits, and maintenance.
+- **Gitleaks passed, zero commits scanned** — [English](gitleaks-zero-commits-false-green.en.md) | [Español](gitleaks-zero-commits-false-green.md). Technical note on scan scope, merge coverage, and rejecting empty scans; includes public references and generic examples.
+- **Remediating a vulnerable dependency in a development toolchain** — [English](braces-development-toolchain-remediation.en.md) | [Español](braces-dependencia-vulnerable-herramientas-dev.md). Technical note on removing a vulnerable `braces` chain from a development toolchain with a scoped local adapter; covers the remediation contract, validation limits, and maintenance.
